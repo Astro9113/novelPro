@@ -5,7 +5,7 @@ import Bookdetail from '../components/Bookdetail/Bookdetail.vue';
 import Recommend from '../components/Recommend/Recommend.vue';
 import Categorydetail from '../components/Catgorydetail/Catgorydetail.vue';
 import Rank from '../components/Rank/Rank.vue';
-import Search from '../components//Search/Search.vue';
+import Search from '../components/Search/Search.vue';
 import Searchresult from '../components/Searchresult/Searchresult.vue';
 import Chapter from '../components/Chapter/Chapter.vue';
 import Read from '../components/Read/Read.vue';
